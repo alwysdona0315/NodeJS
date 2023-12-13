@@ -1,14 +1,14 @@
 {
-  "name": "oengenalantentangnodejs",
+  "name": "resthub2",
   "version": "1.0.0",
-  "description": "",
+  "description": "rest api CRUD",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Dona",
   "license": "ISC",
   "dependencies": {
-    "moment": "^2.29.4"
+    "express": "^4.18.2"
   }
 }
